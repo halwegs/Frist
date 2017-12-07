@@ -1,1 +1,2 @@
 hello , this is only 1 line docments,
+你好 ，欢迎使用加入我的仓库
